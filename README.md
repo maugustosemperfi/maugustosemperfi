@@ -37,9 +37,10 @@ Also using and experimenting with `opencode`, Claude Code, Codex, and agent skil
 - [cli-dm](https://github.com/maugustosemperfi/cli-dm) — a dungeon-map visualization for Claude Code sessions and parallel agent work.
 - [agent-skills](https://github.com/maugustosemperfi/agent-skills) — reusable, highly technical Codex and agent skills for tracking, reviewing, and syncing agent workflows.
 - [Fatura Reader](https://fatura-reader.pages.dev/) — a local-first Brazilian credit-card statement reader that parses PDFs in the browser without uploading financial data.
+- [Acordo](https://acordo.pro/) — AI-assisted proposals, shareable links, client tracking, and one-click acceptance for Brazilian freelancers and small businesses.
 - [Personal site and blog](https://github.com/maugustosemperfi/maugustosemperfi.github.io) — writing, project notes, and a place to make the work legible.
 
-Some older public repositories are still useful as history, especially the finance and frontend experiments. The current work I care most about is moving toward agent infrastructure, local-first personal finance tools, and small product surfaces with real daily use.
+Some older public repositories are still useful as history, especially the finance and frontend experiments. The current work I care most about is moving toward agent infrastructure, local-first finance tools, and small product surfaces with real daily use.
 
 ---
 
