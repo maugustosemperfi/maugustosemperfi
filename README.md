@@ -34,12 +34,12 @@ Also using and experimenting with `opencode`, Claude Code, Codex, and agent skil
 
 ### Current public threads
 
+- [cli-dm](https://github.com/maugustosemperfi/cli-dm) — a dungeon-map visualization for Claude Code sessions and parallel agent work.
+- [agent-skills](https://github.com/maugustosemperfi/agent-skills) — reusable, highly technical Codex and agent skills for tracking, reviewing, and syncing agent workflows.
+- [Fatura Reader](https://fatura-reader.pages.dev/) — a local-first Brazilian credit-card statement reader that parses PDFs in the browser without uploading financial data.
 - [Personal site and blog](https://github.com/maugustosemperfi/maugustosemperfi.github.io) — writing, project notes, and a place to make the work legible.
-- [ts-generic-utils](https://github.com/maugustosemperfi/ts-generic-utils) — TypeScript helpers and utility experiments.
-- [financial-web](https://github.com/maugustosemperfi/financial-web) / [financial-mobile](https://github.com/maugustosemperfi/financial-mobile) — older pieces of a long-running personal finance thread.
-- [micro-frontwindows-components](https://github.com/maugustosemperfi/micro-frontwindows-components) — frontend boundary and component experiments.
 
-Some of the more useful work is still private or local. I am slowly turning the parts that can stand on their own into public notes or repositories.
+Some older public repositories are still useful as history, especially the finance and frontend experiments. The current work I care most about is moving toward agent infrastructure, local-first personal finance tools, and small product surfaces with real daily use.
 
 ---
 
